@@ -1,5 +1,5 @@
 <h1>Project Highlights<h1>
-Data Analytics Platform: Power BI
+Data Analytics Platform: Power BI<br>
 Dataset: Global Superstore dataset
 Key Features:
 Interactive and user-friendly dashboard
