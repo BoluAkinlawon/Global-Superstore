@@ -2,7 +2,7 @@
 <h3>Data Analytics Platform: Power BI<br>
 Dataset: Global Superstore dataset<br>
 Key Features:<br>
-Interactive and user-friendly dashboard<br>
+<li>Interactive and user-friendly dashboard</li><br>
 Insights on sales, profit, and performance metrics across various dimensions (regions, categories, and more)<br>
 Visualizations to aid in decision-making and performance tracking<br>
 Dashboard Overview<br>
